@@ -1,3 +1,3 @@
 # CPS-CAPSTONE
 
-[CyberHire.org] - A link to the webpage
+* [CyberHire.org](cyberhire.org) - A link to the webpage
